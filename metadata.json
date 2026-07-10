@@ -1,0 +1,6 @@
+{
+  "name": "GigYaatra 3D",
+  "description": "AI-powered 3D virtual world for career and hobby discovery, tracking user behavior to generate personalized learning and career paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
